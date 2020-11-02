@@ -19,3 +19,6 @@ print(first+second)
 yourteacher='黑夜'
 ourteacher=teacher+yourteacher
 print(ourteacher*8)
+
+
+#04
